@@ -7,4 +7,4 @@
 
 
 
-![By Caracangrejo (Own work) CC BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0 via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/0/0b/Caracangrejo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Caracangrejo.png" width="75px" />
