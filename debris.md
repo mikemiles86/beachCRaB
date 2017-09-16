@@ -5,7 +5,6 @@ permalink: debris
 
 There are so many types of litter in our ocean.  You can see the most common in the image below. As you help by collecting, you most likely encounter this items on this list.
 
-[image1](https://github.com/mikemiles86/img/debris1.jpeg)
 
-!(http://www.salemsound.org/images/Toptenitems_oc.jpg)
+![Top Ten Items Graphic](http://www.salemsound.org/images/Toptenitems_oc.jpg)
 
