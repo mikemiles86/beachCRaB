@@ -1,3 +1,7 @@
+---
+title: Be a Beach CRaB!
+---
+
 ## 1. Collect
 
 ## 2. Remove
