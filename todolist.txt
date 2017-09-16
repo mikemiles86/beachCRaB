@@ -1,1 +1,13 @@
 
+Can we add some navigation links up top.
+Help (this page) | Network | Data | News
+
+Can we add news that feeds on front page from groups?
+I.E. Facebook events, new data uploads
+
+Show Graph on front page that is updated by Data.
+i.e.
+Gloucester
+10 Cleanups
+50 trash bags
+10 pounds of litter
