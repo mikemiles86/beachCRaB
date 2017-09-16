@@ -4,7 +4,7 @@ title: CRaB
 We all can do our part to make our beaches clean. It's as simple as being a *C.R.a.B*!
 
 ## 1. Collect
-See something? Pick it up! Don't just ignore that empty can or other [debris]({% link debrise.md %}) laying in the sand. Collect it and move it off the beach, before the ocean does.
+See something? Pick it up! Don't just ignore that empty can or other [debris]({% link debris.md %}) laying in the sand. Collect it and move it off the beach, before the ocean does.
 
 Check out other ways you can COLLECT beach debris.
 
