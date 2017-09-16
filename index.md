@@ -1,6 +1,6 @@
 ## 1. Collect
 
-## 2. Recycle
+## 2. Remove
 
 ## 3. and.. Beautify!
 
