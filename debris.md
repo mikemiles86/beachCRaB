@@ -7,5 +7,5 @@ There are so many types of litter in our ocean.  You can see the most common in 
 
 [image1](https://github.com/mikemiles86/img/debris1.jpeg)
 
-!(https://github.com/mikemiles86/img/debris1.jpeg){:width="150"}
+!(http://www.salemsound.org/images/Toptenitems_oc.jpg)
 
