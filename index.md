@@ -1,13 +1,16 @@
 ---
-title: Be a Beach CRaB!
+title: CRaB
 ---
 
 ## 1. Collect
+See something? Pick-up something! Don't just walk past that empty can or other [debris](/debris) laying in the sand. Do your part and pick it up.
 
 ## 2. Remove
+Just like camping follow the golden rule of carry-in and carry out.
+
 
 ## 3. and.. Beautify!
-
+Leave the beach better then you found it!
 
 
 
