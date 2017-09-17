@@ -1,4 +1,3 @@
-
 ---
 title: solve
 navigation_weight: 5
