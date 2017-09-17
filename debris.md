@@ -1,7 +1,6 @@
 ---
-permalink: debris
 title: Debris
-navigation_weight: 2
+navigation_weight: 3
 ---
 
 ## Common Types of Debris
