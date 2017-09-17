@@ -1,6 +1,7 @@
 ---
 permalink: beautify
 Title: Beutify
+navigation_weight: 5
 ---
 
 ## Beautify
