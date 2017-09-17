@@ -44,7 +44,13 @@
       {% else %}
         <div id="no-downloads">
           <span class="inner">
-            <nav class="main-nav">
+          </span>
+        </div>
+      {% endif %}
+      
+
+      <span class="banner-fix"></span>
+                  <nav class="main-nav">
               <ul>
                 {% assign navigation_pages = site.pages | sort: 'navigation_weight' %}
                 {% for p in navigation_pages %}
@@ -58,13 +64,6 @@
                 {% endfor %}
               </ul>
             </nav>
-          </span>
-        </div>
-      {% endif %}
-      
-
-      <span class="banner-fix"></span>
-
 
       <section id="main_content">
         {{ content }}
