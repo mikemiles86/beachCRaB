@@ -10,12 +10,10 @@ It's as simple as being a *C.R.a.B*!
 </center>
 
 ## 1. Collect
-See something? Pick it up! Don't just ignore that empty can or other debris laying in the sand. Collect it and move it off the beach, before the ocean does.
+See something? Pick it up! Don't just ignore that empty can or other debris laying in the sand. [Collect](/collect) it and move it off the beach, before the ocean does.
 
-Check out other ways you can [collect](/collect) beach debris.
-
-## 2. Remove
-When you head to the beach be sure to follow the golden rule: carry-in, carry-out.  After your day in the sun, check to make sure you've gathered all of your belongings and deposited all of your recycling and garbage.
+## 2. Report
+Help Report [data](/data) so we can measure and learn how to prevent  and solve
 
 ## 3. and.. Beautify!
 Leave the beach better then you found it! Ask yourself what is the one thing you could do at your beach trip to make that beach better for someone else.
