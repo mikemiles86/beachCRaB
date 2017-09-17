@@ -1,8 +1,8 @@
 ## Documentation
-<https://hack-for-the-sea.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=discover>
+[Devpost Hack for the sea] (https://hack-for-the-sea.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=discover)
 
 ### Presentation
-[Hack for the Sea Presentation][https://docs.google.com/presentation/d/1RZE1Eyk69c59iUIl5DWQOV4Bh03hnAzo5iovMHwpypM/edit?usp=sharing]
+[Hack for the Sea Presentation](https://docs.google.com/presentation/d/1RZE1Eyk69c59iUIl5DWQOV4Bh03hnAzo5iovMHwpypM/edit?usp=sharing)
 
 ### Research
 
