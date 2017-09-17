@@ -3,11 +3,16 @@
 
 @import "{{ site.theme }}";
 
+nav.main-nav {
+	position:relative;
+	top:125px
+}
+
 nav.main-nav ul {
 	margin: 0;
 	padding: 0;
 	list-style: none;
-	float: right;
+	float: center;
 }
 
 nav.main-nav li,
