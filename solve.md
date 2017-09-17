@@ -1,6 +1,6 @@
 ---
 title: Solve
-navigation_weight: 5
+navigation_weight: 4
 ---
 
 ## Solve
