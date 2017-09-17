@@ -1,10 +1,10 @@
 
 ---
-title: solutions
+title: solve
 navigation_weight: 5
 ---
 
-## Solutions
+## Solve
 Collecting debris is great!  We also need to understand where it comes from and prevent it.
 
 ### Root Cause Analysis
