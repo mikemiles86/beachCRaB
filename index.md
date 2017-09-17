@@ -18,6 +18,12 @@ Help Report [data](/data) so we can measure and learn how to prevent  and solve
 ## 3. and.. Beautify!
 Leave the beach better then you found it! Ask yourself what is the one thing you could do at your beach trip to make that beach better for someone else.
 
+## Latest Report
+
+Thank you (name) !
+
+![Report Info](reportinfo.png)
+![Report 1](report1.png)
 <center>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Caracangrejo.png" width="150px" />
 </center>
