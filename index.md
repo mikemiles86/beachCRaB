@@ -2,6 +2,10 @@
 title: CRaB
 ---
 <center>
+| [home](/) | [debris](/debris) | [clean your beach](/data) |
+</center>
+
+<center>
 We all can do our part to make our beaches clean.
 <br />
 It's as simple as being a *C.R.a.B*!

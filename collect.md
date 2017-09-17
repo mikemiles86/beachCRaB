@@ -2,6 +2,10 @@
 permalink: collect
 ---
 
+<center>
+| [home](/) | [debris](/debris) | [clean your beach](/data) |
+</center>
+
 ## How to collect debris
 
 There are so many ways you can dontribute to cleaning up ocean debris.
