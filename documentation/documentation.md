@@ -1,3 +1,8 @@
+---
+permalink: Documentation
+Title: Documentation
+---
+
 ## Documentation
 
 https://hack-for-the-sea.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=discover
