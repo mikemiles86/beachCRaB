@@ -3,7 +3,7 @@ permalink: faq
 Title: FAQ
 navigation_weight: 6
 ---
-## Frequently Asked Questions
+## FAQ
 
 ### What is the difference between marine debris and litter?
 
