@@ -1,6 +1,6 @@
 ---
 Title: FAQ
-navigation_weight: 
+navigation_weight: 6
 ---
 ## FAQ
 
