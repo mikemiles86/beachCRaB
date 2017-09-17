@@ -50,7 +50,9 @@
       
 
       <span class="banner-fix"></span>
-                  <nav class="main-nav">
+
+      <section id="main_content">
+                      <nav class="main-nav">
               <ul>
                 {% assign navigation_pages = site.pages | sort: 'navigation_weight' %}
                 {% for p in navigation_pages %}
@@ -64,8 +66,6 @@
                 {% endfor %}
               </ul>
             </nav>
-
-      <section id="main_content">
         {{ content }}
       </section>
 
