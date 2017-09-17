@@ -1,6 +1,6 @@
 ---
 title: Network
-navigation_weight: 7
+navigation_weight: 6
 ---
 ## Organizations
 
