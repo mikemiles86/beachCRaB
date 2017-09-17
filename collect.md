@@ -1,11 +1,8 @@
 ---
 permalink: collect
+title: Collect
+navigation_weight: 4
 ---
-
-<center>
-| [home](/) | [debris](/debris) | [clean your beach](/data) |
-</center>
-
 ## How to collect debris
 
 There are so many ways you can dontribute to cleaning up ocean debris.
