@@ -1,5 +1,5 @@
 ---
-permalink: Documentation
+permalink: documentation
 Title: Documentation
 ---
 
