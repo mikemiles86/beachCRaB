@@ -6,8 +6,9 @@ navigation_weight: 3
 
 
 ## Data
-Display the latest data and contribution
---graphic here--
+Thank you (name here) !
+
+
 
 ### Report your contribution
 [This is an example spreadsheet](https://docs.google.com/spreadsheets/d/1_-ADPzs5dTeHf1s3smth88BTFsRLnZ7wsPawDv0ixfo/edit?usp=sharing) for a data card we can create. You can report via the form on the site or an App.
