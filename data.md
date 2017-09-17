@@ -19,7 +19,7 @@ Display the latest data and contribution
 In addition to collecting debris, we want to find out where it comes from and stop it from occurring.
 
 ### Sample Report
-[A sample report of items](https://docs.google.com/spreadsheets/d/1QByW8GpIfujf4X7uAoqZHOJQzkULR6vtBZHEyauf71U/edit?usp=sharing] collected
+[A sample report of items collected](https://docs.google.com/spreadsheets/d/1QByW8GpIfujf4X7uAoqZHOJQzkULR6vtBZHEyauf71U/edit?usp=sharing)
 
 
 ### Graph
