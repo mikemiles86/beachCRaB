@@ -1,5 +1,5 @@
 ---
-title: solve
+title: Solve
 navigation_weight: 5
 ---
 
