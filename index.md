@@ -1,6 +1,6 @@
 ---
 title: Home
-navigation_weight:1
+navigation_weight: 1
 ---
 
 <center>
