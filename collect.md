@@ -1,7 +1,7 @@
 ---
 permalink: collect
 title: Collect
-navigation_weight: 4
+navigation_weight: 3
 ---
 ## How to collect debris
 
