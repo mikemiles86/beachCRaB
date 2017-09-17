@@ -6,10 +6,7 @@ navigation_weight: 3
 
 
 ## Data
-This is where you can find examples of how to track your own data, for keeping your local beach clean.
-
-## Latest Data
-See the data change when you contribute with the App.
+Display the latest data and contribution
 --graphic here--
 
 ### Report your contribution
