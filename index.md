@@ -10,7 +10,7 @@ It's as simple as being a *C.R.a.B*!
 </center>
 
 ## 1. Collect
-See something? Pick it up! Don't just ignore that empty can or other [debris](/debris) laying in the sand. Collect it and move it off the beach, before the ocean does.
+See something? Pick it up! Don't just ignore that empty can or other debris laying in the sand. Collect it and move it off the beach, before the ocean does.
 
 Check out other ways you can [collect](/collect) beach debris.
 
