@@ -1,8 +1,7 @@
 
 ---
-permalink: solutions
 title: solutions
-navigation_weight: 6
+navigation_weight: 5
 ---
 
 ## Solutions
