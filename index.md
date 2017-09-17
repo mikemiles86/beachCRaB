@@ -1,9 +1,7 @@
 ---
-title: CRaB
+title: Home
+navigation_weight:1
 ---
-<center>
-| [home](/) | [debris](/debris) | [clean your beach](/data) |
-</center>
 
 <center>
 We all can do our part to make our beaches clean.

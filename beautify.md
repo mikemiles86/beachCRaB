@@ -1,9 +1,7 @@
 ---
 permalink: beautify
+Title: Beutify
 ---
-<center>
-| [home](/) | [debris](/debris) | [clean your beach](/data) |
-</center>
 
 ## Beautify
 To do beautify you can..

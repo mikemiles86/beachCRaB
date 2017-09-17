@@ -1,9 +1,8 @@
 ---
 permalink: debris
+title: Debris
+navigation_weight:2
 ---
-<center>
-| [home](/) | [debris](/debris) | [clean your beach](/data) |
-</center>
 
 ## Common Types of Debris
 

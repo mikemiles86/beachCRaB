@@ -1,9 +1,9 @@
 ---
 permalink: data
+title: Data
+navigation_weight:3
 ---
-<center>
-| [home](/) | [debris](/debris) | [clean your beach](/data) |
-</center>
+
 
 ## Data
 This is where you can find examples of how to track your own data, for keeping your local beach clean.
