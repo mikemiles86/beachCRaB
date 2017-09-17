@@ -18,6 +18,7 @@ nav.main-nav ul {
 nav.main-nav li,
 nav.main-nav a {
 	display: inline-block;
+	background: 0;
 }
 
 nav.main-nav li a {
@@ -25,6 +26,6 @@ nav.main-nav li a {
 	color: #ece4d8;
 }
 
-a.active {
+nav.main-nav li a.active {
 	color: #7c334f;
 }
