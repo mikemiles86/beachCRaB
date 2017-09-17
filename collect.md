@@ -1,7 +1,6 @@
 ---
-permalink: collect
 title: Collect
-navigation_weight: 3
+navigation_weight: 2
 ---
 ## How to collect debris
 
