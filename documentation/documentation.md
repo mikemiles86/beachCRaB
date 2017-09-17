@@ -25,3 +25,6 @@ https://hack-for-the-sea.devpost.com/?ref_content=default&ref_feature=challenge&
 <http://www.salemsound.org/>
 
 <https://www.fastcompany.com/3049540/5-ways-to-convince-people-to-actually-do-something-about-climate-change>
+
+###Mind map
+https://app.mindmup.com/map/_free/2017/09/bbc125709bdb11e7a1d153963f56a69c
