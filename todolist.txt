@@ -12,5 +12,13 @@ Gloucester
 50 trash bags
 10 pounds of litter
 
+1. A graph linked to the spreadsheet that shows how much has been collected or prevented, and updates instantly (You should be able to do this with a live connect to the spreadsheet)
+
+2. An explanation of why marine debris is a problem
+
+3. Some ways to cut down on the sources and how individuals can do that - everything from avoiding plastics in their buying habits, to not letting trash and recycling blow into the ocean
+
+4. Explain how to pick up marine debris. Just picking up a few pieces isn’t hard, but to organize a clean up. - show what is needed
+
 
 
