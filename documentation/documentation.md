@@ -7,11 +7,11 @@ https://docs.google.com/presentation/d/1RZE1Eyk69c59iUIl5DWQOV4Bh03hnAzo5iovMHwp
 
 ### Research
 
-Test refresh
+Test refresh 2
 
-http://debris.westcoastoceans.org/
+<http://debris.westcoastoceans.org/>
 
-http://www.marinedebris.engr.uga.edu/links/
+<http://www.marinedebris.engr.uga.edu/links/>
 
 https://marinedebris.noaa.gov/research/marine-debris-monitoring-and-assessment-project
 
