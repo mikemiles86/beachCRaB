@@ -4,8 +4,9 @@ navigation_weight: 1
 ---
 
 <center>
-Attention: This is a proof of concept site for Hack for the sea 2017. You can find more informaiton here.
+Attention: This is a prototype site for Hack for the sea 2017. You can find more information here.
 https://devpost.com/software/beachcrab
+
 <br/>
 We all can do our part to make our beaches clean.
 <br />
