@@ -28,7 +28,7 @@ Thank you (name) !
 <center>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Caracangrejo.png" width="150px" style="border:0;box-shadow:0px 0px 0px" />
 <br />
-<span style="background:#7c334f;color:#ece4d8;width:100%;font-size:.85em">
-Attention: This is a prototype site for Hack for the sea 2017. You can find more information [here](https://devpost.com/software/beachcrab).
+<span style="width:100%;font-size:.85em">
+Attention: This is a prototype site for Hack for the sea 2017. You can find more information [here](https://devpost.com/software/beachcrab) .
 </span>
 </center>
